@@ -729,7 +729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fad25d6549b0664e93868bbd228a78b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Kitchen
+  targetScene: Kitchen2
 --- !u!65 &1595587028
 BoxCollider:
   m_ObjectHideFlags: 0
