@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     private Animator animator; // 애니메이터 컴포넌트 참조
     private SpriteRenderer spriteRenderer; // 스프라이트 렌더러 컴포넌트 참조
     private int originalSortingOrder; // 원래 sortingOrder 값
-    private bool hasMoved = false; // 플레이어가 움직였는지 여부 확인
+    // private bool hasMoved = false; // 플레이어가 움직였는지 여부 확인
 
     void Start()
     {
@@ -54,7 +54,8 @@ public class PlayerController : MonoBehaviour
                 spriteRenderer.sortingOrder = originalSortingOrder + 10; // sortingOrder를 크게 변경
             }
 
-            hasMoved = true;
+            //
+            // hasMoved = true;
         }
 
         // 이동 중이면 walk 애니메이션 재생
