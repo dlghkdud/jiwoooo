@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\CameraControl.cs" />
     <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\ObjectItem.cs" />
+    <Compile Include="Assets\TestPlayer.cs" />
     <Compile Include="Assets\PlayerCollision.cs" />
     <Compile Include="Assets\SceneSwitcher.cs" />
     <Compile Include="Assets\Item.cs" />

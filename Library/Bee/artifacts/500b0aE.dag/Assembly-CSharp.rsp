@@ -381,10 +381,12 @@
 "Assets/CameraControl.cs"
 "Assets/Inventory.cs"
 "Assets/Item.cs"
+"Assets/ObjectItem.cs"
 "Assets/PlayerCollision.cs"
 "Assets/PlayerController.cs"
 "Assets/SceneSwitcher.cs"
 "Assets/Slot.cs"
+"Assets/TestPlayer.cs"
 "Assets/WaterGame.cs"
 -langversion:9.0
 

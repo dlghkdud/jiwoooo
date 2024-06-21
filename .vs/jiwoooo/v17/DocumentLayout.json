@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|c:\\users\\sunrin\\documents\\github\\jiwoooo\\assets\\testplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|solutionrelative:assets\\testplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|c:\\users\\sunrin\\documents\\github\\jiwoooo\\assets\\objectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|solutionrelative:assets\\objectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\assets\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|solutionrelative:assets\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\IObjectItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\IObjectItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\ItemPickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +31,12 @@
       "RelativeMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|solutionrelative:assets\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\assets\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\InventorySlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\InventorySlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\assets\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1BC93E-A21A-D1E3-3423-5D1066594CC9}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +46,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\TestPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\TestPlayer.cs",
+              "ToolTip": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\TestPlayer.cs",
+              "RelativeToolTip": "Assets\\TestPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:25:41.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ObjectItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\ObjectItem.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectItem.cs",
+              "ToolTip": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\ObjectItem.cs",
+              "RelativeToolTip": "Assets\\ObjectItem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:17:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObjectItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\IObjectItem.cs",
+              "RelativeDocumentMoniker": "Assets\\IObjectItem.cs",
+              "ToolTip": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\IObjectItem.cs",
+              "RelativeToolTip": "Assets\\IObjectItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:16:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ItemPickup.cs",
               "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\ItemPickup.cs",
               "RelativeDocumentMoniker": "Assets\\ItemPickup.cs",
@@ -49,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "InventorySlot.cs",
               "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\InventorySlot.cs",
               "RelativeDocumentMoniker": "Assets\\InventorySlot.cs",
@@ -61,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\Inventory.cs",
               "RelativeDocumentMoniker": "Assets\\Inventory.cs",
@@ -73,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
@@ -85,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Item.cs",
@@ -93,16 +146,11 @@
               "RelativeToolTip": "Assets\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:09:42.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-06-14T02:09:42.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CameraControl.cs",
               "DocumentMoniker": "C:\\Users\\Sunrin\\Documents\\GitHub\\jiwoooo\\Assets\\CameraControl.cs",
               "RelativeDocumentMoniker": "Assets\\CameraControl.cs",
