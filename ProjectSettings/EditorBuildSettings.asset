@@ -38,5 +38,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Secrete3.unity
     guid: 811a339f59119c54db75601f9bb8e53a
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 610e83d35dadfa34989d8a69e0da7070
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

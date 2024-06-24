@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour
     public float verticalMargin = 1f; // 카메라 경계로부터의 여유 마진 (위/아래)
     public float horizontalMargin = 1f; // 카메라 경계로부터의 여유 마진 (좌우)
     public string targetScene; // 전환할 씬의 이름
+    float jumpForce = 300;
+    Rigidbody2D myRigid;
     private Animator animator; // 애니메이터 컴포넌트 참조
     private SpriteRenderer spriteRenderer; // 스프라이트 렌더러 컴포넌트 참조
     private int originalSortingOrder; // 원래 sortingOrder 값
@@ -17,6 +19,7 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>(); // 애니메이터 컴포넌트 가져오기
         spriteRenderer = GetComponent<SpriteRenderer>(); // 스프라이트 렌더러 컴포넌트 가져오기
         originalSortingOrder = spriteRenderer.sortingOrder; // 원래 sortingOrder 값을 저장
+        myRigid = GetComponent<Rigidbody2D>();
     }
 
     void Update()
@@ -25,6 +28,11 @@ public class PlayerController : MonoBehaviour
         float verticalInput = Input.GetAxis("Vertical"); // 위아래 화살표 키 입력
         float horizontalMovement = horizontalInput * moveSpeed * Time.deltaTime; // 수평 이동량 계산
         float verticalMovement = verticalInput * moveSpeed * Time.deltaTime; // 수직 이동량 계산
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            GetComponent<Rigidbody2D>().AddForce(new Vector2(0,jumpForce));
+        }
 
         // 플레이어 이동
         transform.Translate(new Vector2(horizontalMovement, verticalMovement));
